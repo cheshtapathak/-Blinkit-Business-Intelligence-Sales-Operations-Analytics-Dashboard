@@ -1,6 +1,5 @@
 # -Blinkit-Business-Intelligence-Sales-Operations-Analytics-Dashboard
-1. Project Title / Headline
-🛒 Blinkit Business Intelligence: Sales & Operations Analytics Dashboard
+1. 🛒 Blinkit Business Intelligence: Sales & Operations Analytics Dashboard
 
 An end-to-end data analytics capstone project designed to analyze Blinkit’s sales performance, customer satisfaction, inventory patterns, and outlet efficiency—leveraging SQL, Python, Excel, and Power BI to deliver actionable business insights for management decision-making.
 
